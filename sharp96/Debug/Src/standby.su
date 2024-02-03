@@ -1,0 +1,2 @@
+../Src/standby.c:3:6:Wakeup_pin_en	4	static
+../Src/standby.c:24:6:Enter_standby_mode	4	static,ignoring_inline_asm

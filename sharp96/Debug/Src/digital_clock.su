@@ -1,0 +1,14 @@
+../Src/digital_clock.c:9:6:Set_year	16	static
+../Src/digital_clock.c:17:6:Set_month	16	static
+../Src/digital_clock.c:25:6:Set_date	16	static
+../Src/digital_clock.c:33:6:Set_day	16	static
+../Src/digital_clock.c:41:6:Set_hour	24	static
+../Src/digital_clock.c:48:6:Set_min	24	static
+../Src/digital_clock.c:55:6:Set_sec	24	static
+../Src/digital_clock.c:63:6:Set_hms	24	static
+../Src/digital_clock.c:72:6:Set_dmy	16	static
+../Src/digital_clock.c:88:6:Set_cycle	16	static
+../Src/digital_clock.c:95:6:Get_cycle	16	static
+../Src/digital_clock.c:102:6:Set_alarm_times	16	static
+../Src/digital_clock.c:109:6:Get_alarm_times	16	static
+../Src/digital_clock.c:116:6:Set_alarm	24	static

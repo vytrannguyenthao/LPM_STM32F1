@@ -1,0 +1,8 @@
+D:/HOC_TAP/02_PIF/PIF_Courses/EmbeddedC/udemy_course/STM32BareMetal-Projects/00_test/chip_headers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+D:/HOC_TAP/02_PIF/PIF_Courses/EmbeddedC/udemy_course/STM32BareMetal-Projects/00_test/chip_headers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../Src/tim.c:3:6:Timer2Config	4	static
+../Src/tim.c:28:6:Delay_us	16	static
+../Src/tim.c:41:6:Delay_ms	24	static
+../Src/tim.c:48:6:Timer3Config	8	static
+../Src/tim.c:88:6:Timer4Config	8	static
+../Src/tim.c:130:6:Reset_timer4_counter	4	static

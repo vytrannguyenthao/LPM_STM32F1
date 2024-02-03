@@ -1,0 +1,4 @@
+../Src/gpio.c:3:6:GPIO_Pin_Configure	24	static
+../Src/gpio.c:71:6:GPIO_set_out_pin	16	static
+../Src/gpio.c:100:6:GPIO_toogle_out_pin	16	static
+../Src/gpio.c:118:6:Wakeup_pin_init	4	static

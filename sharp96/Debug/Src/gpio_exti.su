@@ -1,0 +1,4 @@
+D:/HOC_TAP/02_PIF/PIF_Courses/EmbeddedC/udemy_course/STM32BareMetal-Projects/00_test/chip_headers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+D:/HOC_TAP/02_PIF/PIF_Courses/EmbeddedC/udemy_course/STM32BareMetal-Projects/00_test/chip_headers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../Src/gpio_exti.c:3:6:PA1_exti_init	8	static
+../Src/gpio_exti.c:51:6:Button_init	8	static

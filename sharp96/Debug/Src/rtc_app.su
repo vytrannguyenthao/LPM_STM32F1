@@ -1,0 +1,5 @@
+../Src/rtc_app.c:3:6:Time_config	24	static
+../Src/rtc_app.c:13:6:Get_time	24	static
+../Src/rtc_app.c:60:6:Check_condition	16	static
+../Src/rtc_app.c:123:6:Set_flag	16	static
+../Src/rtc_app.c:126:6:Clear_flag	16	static

@@ -1,0 +1,6 @@
+../Src/adc_dma.c:3:6:adc_init	4	static
+../Src/adc_dma.c:63:6:dma_init	4	static
+../Src/adc_dma.c:110:6:adc_enable	8	static
+../Src/adc_dma.c:123:6:adc_start	4	static
+../Src/adc_dma.c:140:6:dma1_ch1_config	2024	static
+../Src/adc_dma.c:165:6:dma1_ch4_config	24	static
